@@ -1,2 +1,6 @@
 # Heart_Attack_Analysis_and_Prediction_Dataset
-#### T̲o̲ p̲e̲r̲f̲o̲r̲m̲ t̲h̲e̲ d̲a̲t̲a̲s̲e̲t̲, I̲ u̲s̲e̲d̲ s̲e̲v̲e̲r̲a̲l̲ t̲r̲a̲i̲n̲i̲n̲g̲ m̲o̲d̲e̲l̲s̲ i̲n̲ o̲r̲d̲e̲r̲ t̲o̲ a̲c̲h̲i̲e̲v̲e̲ m̲a̲x̲i̲m̲u̲m̲ r̲e̲s̲u̲l̲t̲s̲. H̲e̲ d̲i̲d̲ i̲t̲ b̲e̲s̲t̲ L̲o̲g̲i̲s̲t̲i̲c̲R̲e̲g̲r̲e̲s̲s̲i̲o̲n̲, w̲h̲i̲c̲h̲ I̲ h̲a̲d̲ n̲o̲ d̲o̲u̲b̲t̲ a̲b̲o̲u̲t̲. H̲e̲ a̲l̲s̲o̲ d̲i̲d̲ a̲ g̲o̲o̲d̲ j̲o̲b̲ C̲a̲t̲B̲o̲o̲s̲t̲ w̲h̲i̲c̲h̲ I̲ a̲l̲s̲o̲ h̲a̲d̲ n̲o̲ d̲o̲u̲b̲t̲ a̲b̲o̲u̲t̲ t̲o̲o̲.
+#### To execute the dataset, I used several training models to achieve maximum results. He did it best in the field of LogisticRegression, which I had no doubt about. He also did a good job CatBoost which I also had no doubt about.
+###### Logistic Regression showed us the result 0.8552631578947368, which is a fairly good result
+###### RandomForest showed us the error 0.2776315789473685, quite a small mistake
+###### And RabdomForest showed us the maen squared error 0.14421052631578946, very small error
+###### CatBoostClassifier didn't go far from LogisticRegression and showed us the result 0.7625088090204369, not bad
